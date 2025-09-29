@@ -1,0 +1,11 @@
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\bin\Debug\net9.0\HelpperRPG.Core.deps.json
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\bin\Debug\net9.0\HelpperRPG.Core.dll
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\bin\Debug\net9.0\HelpperRPG.Core.pdb
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\obj\Debug\net9.0\HelpperRPG.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\obj\Debug\net9.0\HelpperRPG.Core.AssemblyInfoInputs.cache
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\obj\Debug\net9.0\HelpperRPG.Core.AssemblyInfo.cs
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\obj\Debug\net9.0\HelpperRPG.Core.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\obj\Debug\net9.0\HelpperRPG.Core.dll
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\obj\Debug\net9.0\refint\HelpperRPG.Core.dll
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\obj\Debug\net9.0\HelpperRPG.Core.pdb
+C:\Users\pedro\Odhinn\projects\HelpperRPG\HelpperRPG.Core\obj\Debug\net9.0\ref\HelpperRPG.Core.dll
