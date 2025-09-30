@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelpperRPG.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68f4391567ed10778e44df2546be81330b0064e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelpperRPG.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelpperRPG.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
